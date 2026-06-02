@@ -1,4 +1,5 @@
-standard_user;secret_sauce
-standard_user;passwordmal
-locked_out_user;secret_sauce
 
+locked_out_user;secret_sauce
+visual_user;secret_sauce
+standard_user;secret_sauce
+error_user;secret_
