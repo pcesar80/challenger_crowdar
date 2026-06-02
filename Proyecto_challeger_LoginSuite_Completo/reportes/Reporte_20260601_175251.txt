@@ -1,0 +1,21 @@
+📊 RESULTADO DE EJECUCIÓN QA
+====================================
+🕒 Fecha: 01/06/2026 17:52:51
+
+📌 RESUMEN
+------------------------------------
+✔ Total OK: 3
+❌ Total errores: 2
+
+🧩 RESULTADO POR MÓDULO
+------------------------------------
+✔ Login - standard_user → OK
+✔ Producto - standard_user → OK
+❌ Login - standard_user → ERROR
+❌ Login - locked_out_user → ERROR
+✔ MercadoLibre API (28 departamentos) → OK
+
+❌ DETALLE DE ERRORES
+------------------------------------
+❌ Login - standard_user → Login inválido
+❌ Login - locked_out_user → Mensaje de usuario bloqueado incorrecto
