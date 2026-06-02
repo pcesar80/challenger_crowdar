@@ -2,7 +2,8 @@
 
 Usando IntelliJ IDEA ejecutar la clase challenger_automa.java  
 En la carpeta evidencias, se encuentran las capturas de cuando una prueba da error.  
-En la carpeta reportes, cuando termina la ejecucion muestra el reporte general de la ejecucion.  
+En la carpeta reportes, cuando termina la ejecucion muestra el reporte general de la ejecucion. 
+En el reporte, se muestra el resultado de la consulta GET de Mercado Libre.
 
 ## CONFIGURAR CHROME O FIREFOX EN INTELLIJ
 
